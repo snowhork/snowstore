@@ -1,4 +1,4 @@
-module snowstore
+module github.com/snowhork/snowstore
 
 go 1.15
 
